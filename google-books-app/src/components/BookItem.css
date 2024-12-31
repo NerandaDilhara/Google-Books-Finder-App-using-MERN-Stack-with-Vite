@@ -1,0 +1,15 @@
+.book-item {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 1rem;
+    margin: 1rem;
+    background: #fff;
+    width: 200px;
+    text-align: center;
+}
+
+.book-item img {
+    width: 100px;
+    height: 150px;
+    object-fit: cover;
+}

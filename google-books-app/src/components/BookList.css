@@ -1,0 +1,19 @@
+.book-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 1rem;
+}
+
+.form{
+    margin: 40px;
+    text-align: center;
+}
+
+.form input{
+    padding: 10px;
+}
+
+.form button{
+    padding: 10px;
+}
